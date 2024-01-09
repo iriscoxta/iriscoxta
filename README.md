@@ -33,8 +33,8 @@
 - 🌟 Amo transformar designs criativos em código funcional e responsivo.
 - 🎨 Fascinada por UX/UI e sempre em busca de melhorias na usabilidade.
 - 🚀 Comprometida em aprender e evoluir constantemente no mundo da tecnologia.
-- 🌐 Trabalhando com HTML, CSS, JavaScript e explorando novos frameworks.
-- 📚 Estudando React JS
+- 🌐 Trabalhando com HTML, CSS, JavaScript, TypeScript e explorando novos frameworks.
+- 📚 Aprofundando os estudos em React JS
 - 👩‍💻 Compartilhando conhecimento e colaborando em projetos open source.
 
 ##
