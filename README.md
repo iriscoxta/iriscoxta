@@ -54,7 +54,7 @@
 </a>
 <br/>
 <br/>
-<a href="https://github.com/iriscoxta/digital_signal_processing">
+<a href="https://github.com/iriscoxta/Analise_Exploratoria">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iriscoxta&repo=Analise_Exploratoria" />
 </a>
 <br/>
