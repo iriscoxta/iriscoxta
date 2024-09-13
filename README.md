@@ -2,15 +2,22 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sklearn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Sklearn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Next" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >
-  <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind" height="60" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sklearn" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Jupyter" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Matplotlib" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Plotly" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
+
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   
 </div>
