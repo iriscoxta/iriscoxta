@@ -1,23 +1,27 @@
 <h1 align="center">Iris Costa 👩‍💻🎲</h1>
 
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Python" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Sklearn" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Jupyter" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Matplotlib" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Plotly" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
 
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Blazor" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+  <br/>
+  <br/>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sklearn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Jupyter" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Numpy" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Matplotlib" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Plotly" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   
 </div>
