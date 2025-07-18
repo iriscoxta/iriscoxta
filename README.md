@@ -1,16 +1,14 @@
-# 💜 Olá, eu sou a Eduarda!
+# 💜 Olá, eu sou a Iris!
 <p align="left">
   Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+ Tenho focado meus estudos em <strong>Node.js</strong> e <strong>Angular</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada do Desenvolvimento.
 </p>
 
 ## Sobre mim
 
-- 🖥️ Técnica em Desenvolvimento de Sistemas pelo SENAI
-- 🎓 Graduanda em Engenharia de Software na PUC
-- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
+- 🎓 Graduanda em Engenharia da Computação na UFC
+- 📚 Estudando Angular, Node.js, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- ❤️ Tenho um [studygram](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr) e sempre estou postando dicas sobre a área e incentivando dev's
 
 ---
 <br>
@@ -27,37 +25,31 @@
 
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
-
-## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
-Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
-
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 💜
-
-
+<a href="https://github.com/iriscoxta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iriscoxtav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriscoxta&layout=compact&langs_count=6&theme=radical"/>
 
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,bootstrap,nodejs,dotnet,tensorflow,sklearn,matlab)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,visualstudio)](https://skillicons.dev)
 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>3º período de Engenharia de Software</strong> na PUC Minas. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+Sou graduanda em <strong>Engenharia da Computação</strong> e atuo como desenvolvedora front-end, com interesse também na área de <strong>Ciência de Dados</strong>.
+
+Tenho experiência com <strong>JavaScript/TypeScript</strong>, <strong>React</strong> e <strong>Python</strong>, além de ferramentas como <strong>Scikit-learn</strong> e <strong>TensorFlow</strong>. Atualmente, venho explorando tecnologias como <strong>Angular</strong>, <strong>.NET</strong> e <strong>MySQL</strong>, com o objetivo de ampliar meu repertório técnico e integrar diferentes áreas do desenvolvimento.
+
+Gosto de unir código com propósito — seja criando interfaces funcionais, seja analisando dados para gerar insights. 🚀
 </p>
 
 
@@ -67,16 +59,15 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn💌✨
 </p>
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda.vieira.goncalves7@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:irisdevf14@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/costairis/" alt="LinkedIn"/></a>
+ 
 </p>
 
 <div align="center">
