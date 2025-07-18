@@ -1,7 +1,8 @@
 # 💜 Olá, eu sou a Iris!
 <p align="left">
-  Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>Angular</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada do Desenvolvimento.
+Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em Node.js e Angular, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
+Além disso, tenho grande interesse por Ciência de Dados, especialmente pela possibilidade de extrair valor e gerar insights a partir da análise de informações — um campo que pretendo explorar cada vez mais na minha trajetória.
 </p>
 
 ## Sobre mim
