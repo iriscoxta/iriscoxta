@@ -63,9 +63,9 @@ Gosto de unir código com propósito — seja criando interfaces funcionais, sej
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduarda.vieira.goncalves7@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=irisdevf14@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:irisdevf14@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/eduarda-vieira-gon%C3%A7alves-01a584297/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/costairis/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/costairis/" alt="LinkedIn"/></a>
  
 </p>
