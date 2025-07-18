@@ -80,8 +80,8 @@ Gosto de unir código com propósito — seja criando interfaces funcionais, sej
   
   [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iriscoxta&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=iriscoxta&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=iriscoxta&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 
